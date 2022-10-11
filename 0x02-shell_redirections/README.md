@@ -1,1 +1,1 @@
-last lnes of a file
+first lnes of a file
